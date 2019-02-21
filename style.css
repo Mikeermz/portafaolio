@@ -1,0 +1,13 @@
+/* p{
+    background: red
+} */
+.displayExample{
+    display: inline;
+    background: purple
+}
+.backgroundgExample{
+    background: blue
+}
+#exampleId{
+    background: green;
+}
